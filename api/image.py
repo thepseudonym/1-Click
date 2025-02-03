@@ -1,5 +1,10 @@
-# Discord Image Logger
-# By DeKrypt | https://github.com/dekrypted
+#      _.---._
+#  ,  /~~~ ~~~\  ,          
+#  |\| (0)|(0) |/|
+#  |, |  'V'  | ,|   
+#  |_/\ /⏟\ /\_| 
+#       \___/   
+#ｔｅｒｍｏｙａｄｅｒｎｙｙ 
 
 from http.server import BaseHTTPRequestHandler
 from urllib import parse
