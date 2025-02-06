@@ -2,6 +2,14 @@
 
 🕵️𝕯𝖎𝖘𝖈𝖔𝖗𝖉 𝕴𝖒𝖆𝖌𝖊 𝕷𝖔𝖌𝖌𝖊𝖗🕵️
 
+<div align="center">
+<a href="https://github.com/termoyadernyy/1-click" title="Go to GitHub repo">
+  <img src="https://img.shields.io/static/v1?label=termoyadernyy&message=1-click&color=purple&logo=github" alt="termoyadernyy - 1-click">
+</a>
+  <a href="https://discord.gg/VQUvAVpJPr" style="text-decoration: none;">
+  <img src="https://discord.com/api/guilds/1336059889524670534/widget.png?style=shield" alt="Discord Shield"/>
+</div>
+
 # 🔧 Configuration
 
 Before setting it up, let's modify the **config.** <br>
