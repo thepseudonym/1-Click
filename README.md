@@ -1,6 +1,6 @@
 # 1-click Exploit
 
-## 🕵️ 𝕯𝐃𝐢𝐬𝐜𝐨𝐫𝐝 𝐈𝐦𝐚𝐠𝐞 𝐋𝐨𝐠𝐠𝐞𝐫 🕵️
+🕵️ 𝐃𝐢𝐬𝐜𝐨𝐫𝐝 𝐈𝐦𝐚𝐠𝐞 𝐋𝐨𝐠𝐠𝐞𝐫 🕵️
 
 <div align="center">
 <a href="https://github.com/termoyadernyy/1-click" title="Go to GitHub repo">
