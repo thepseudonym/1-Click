@@ -1,4 +1,4 @@
-# 1-click Exploit
+# 1-Click Exploit
 
 🕵️ 𝐃𝐢𝐬𝐜𝐨𝐫𝐝 𝐈𝐦𝐚𝐠𝐞 𝐋𝐨𝐠𝐠𝐞𝐫 🕵️
 
