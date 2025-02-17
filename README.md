@@ -79,3 +79,9 @@ Now that you've got all that set up, let's install this thing! <br>
 - **6:** Copy the domain for you. It should be something like `project.vercel.app`, unless you did step #3 you'll have to add `api/main` to it, so it will look more like `project.vercel.app/api/main` *(Replace `project.vercel.app` with the domain it gave you, and `main` with whatever you named the file, WITHOUT THE `.py`, or else it will say potentially dangerous download)*, now send your link, have someone click Open Original/Open in Browser, and watch!
 
 You can also add a domain if you have one!
+
+# License
+<a href="https://github.com/termoyadernyy/1-Click/blob/main/LICENSE" title="LICENSE">
+  <img src="https://img.shields.io/static/v1?label=&message=LICENSE&color=blue&logo=github" alt="LICENSE">
+</a>
+
