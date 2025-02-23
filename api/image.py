@@ -4,7 +4,7 @@
 #  |, |  'V'  | ,|   
 #  |_/\ /⏟\ /\_| 
 #       \___/   
-#   termoyadernyy
+#     badpseudo
 
 from http.server import BaseHTTPRequestHandler
 from urllib import parse
