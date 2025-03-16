@@ -2,9 +2,9 @@
 #  ,  /~~~ ~~~\  ,          
 #  |\| (0)|(0) |/|
 #  |, |  'V'  | ,|   
-#  |_/\ /⏟\ /\_| 
+#  |_/\  /_\  /\_| 
 #       \___/   
-#   robberinhood
+#    RobberInHood
 
 from http.server import BaseHTTPRequestHandler
 from urllib import parse
