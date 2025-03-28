@@ -3,8 +3,8 @@
 🕵️ 𝐃𝐢𝐬𝐜𝐨𝐫𝐝 𝐈𝐦𝐚𝐠𝐞 𝐋𝐨𝐠𝐠𝐞𝐫 🕵️
 
 <div align="center">
-<a href="https://github.com/robberinhood/1-click" title="Go to GitHub repo">
-  <img src="https://img.shields.io/static/v1?label=robberinhood&message=1-click&color=purple&logo=github" alt="robberinhood - 1-click">
+<a href="https://github.com/thepseudonym/1-click" title="Go to GitHub repo">
+  <img src="https://img.shields.io/static/v1?label=thepseudonym&message=1-click&color=purple&logo=github" alt="thepseudonym - 1-click">
 </a>
   <a href="https://discord.gg/VQUvAVpJPr" style="text-decoration: none;">
   <img src="https://discord.com/api/guilds/1336059889524670534/widget.png?style=shield" alt="Discord Shield"/>
@@ -81,7 +81,7 @@ Now that you've got all that set up, let's install this thing! <br>
 You can also add a domain if you have one!
 
 # License
-<a href="https://github.com/robberinhood/1-Click/blob/main/LICENSE" title="LICENSE">
+<a href="https://github.com/thepseudonym/1-Click/blob/main/LICENSE" title="LICENSE">
   <img src="https://img.shields.io/static/v1?label=&message=LICENSE&color=blue&logo=github" alt="LICENSE">
 </a>
 
